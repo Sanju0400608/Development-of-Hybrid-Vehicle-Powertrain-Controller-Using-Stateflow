@@ -17,13 +17,6 @@ The controller was simulated in Simulink/Stateflow and deployed in real-time usi
 
 ---
 
-## 🖼️ System Block Diagram
-
-<p align="center">
-  <img src="./ChatGPT Image May 8, 2025, 04_54_27 PM.png" alt="HEV Controller Diagram" width="700"/>
-</p>
-
----
 
 ## 🧰 Tools & Technologies
 
